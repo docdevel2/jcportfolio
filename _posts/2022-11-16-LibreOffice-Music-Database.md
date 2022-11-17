@@ -1,4 +1,8 @@
-# “Creating a Music Database in LibreOffice”
+---
+title: “Creating a Music Database in LibreOffice”
+date: 2022-11-16
+---
+
 **Linux Magazine, Issue 258, May 2022**
 https://www.linux-magazine.com/Issues/2022/258/LibreOffice-Music-Database/(language)/eng-US
 
