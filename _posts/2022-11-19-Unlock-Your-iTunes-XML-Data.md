@@ -3,7 +3,7 @@ title: "Unlock Your iTunes XML Data 2022"
 date: 2022-11-19
 ---
 
-[Unlock iTunes XML Data](Unlock%20iTunes%20XML%20Data.pdf)
+[Unlock Your iTunes XML Data](https://docdevel2.github.io/jcportfolio/blob/main/Unlock%20Your%20iTunes%20XML%20Data%202022.pdf)
 
 Unlock Your iTunes XML Data 2022 (pdf)
 https://www.linux-magazine.com/Issues/2022/264/Unlock-Your-iTunes-Data/(language)/eng-US
