@@ -1,5 +1,5 @@
 ---
-title: Unlock Your iTunes XML Data 2022
+title: Unlock Your iTunes XML Data
 date: 2022-11-19
 ---
 
