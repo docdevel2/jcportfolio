@@ -1,4 +1,6 @@
 ---
-title: John Cofield's Portfolio-index, my-pages
+title: "John Cofield's Portfolio-index, main"
 ---
+
+Index file index.md
 
