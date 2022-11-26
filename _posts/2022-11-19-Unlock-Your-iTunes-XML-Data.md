@@ -10,4 +10,4 @@ Keywords: iTunes, XML, Python
 
 [Linux Magazine article](https://www.linux-magazine.com/Issues/2022/264/Unlock-Your-iTunes-Data/(language)/eng-US)
 
-[PDF](https://drive.google.com/file/d/1cVJtBiXFKiCp0EGTYaU2G4gHlj3PvDUh/view?usp=sharing)
+[View/download PDF](https://docdevel2.github.io/jcportfolio/Unlock-Your-iTunes-XML-Data.pdf)
