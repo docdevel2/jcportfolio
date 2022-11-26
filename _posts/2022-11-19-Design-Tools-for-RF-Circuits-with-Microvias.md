@@ -8,4 +8,6 @@ Advances in packaging technologies have enabled dramatic size reductions in  por
 
 Keywords: EDA, Microvia, RF Design, Wireless Design
 
-[View or download: Design Tools for RF Circuits with Microvias](https://docdevel2.github.io/jcportfolio/Design-Tools-for-RF-Circuits-with-Microvias.pdf)
+[View or download PDF: Design Tools for RF Circuits with Microvias](https://docdevel2.github.io/jcportfolio/Design-Tools-for-RF-Circuits-with-Microvias.pdf)
+
+Published: 2000
