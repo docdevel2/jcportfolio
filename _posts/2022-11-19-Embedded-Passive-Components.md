@@ -8,6 +8,6 @@ The rapid growth in demand for wireless products is driving the need for design 
 
 Keywords: EDA, Embedded Passives, Integral Passives, PCB, RF Design, Wireless Design
 
-[View or download: Embedded Passive Components](https://docdevel2.github.io/jcportfolio/Embedded-Passive-Components.pdf)
+[View or download PDF: Embedded Passive Components](https://docdevel2.github.io/jcportfolio/Embedded-Passive-Components.pdf)
 
 Published: 2000
