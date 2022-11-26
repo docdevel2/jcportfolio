@@ -10,3 +10,5 @@ Index file index.md
 [sax](/assets/sax.jpg)
 
 [root-sax](/sax.jpg)
+
+[root-PDF asset](/Using-MCM-Design-Kits.pdf)
