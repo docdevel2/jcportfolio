@@ -3,7 +3,7 @@ title: "New Standard for PCB-MCM Data Exchange"
 date: 2022-11-19
 ---
 
-[New Standard for PCB-MCM Data Exchange 1996](https://drive.google.com/file/d/1x7Q68EjttuTJce5ndcdWRoMIWqdXJcUb/view?usp=sharing)
+[New Standard for PCB-MCM Data Exchange 1996](https://docdevel2.github.io/jcportfolio/New-Standard-for-PCB-MCM-Data-Exchange.pdf)
 
 
 Abstract
