@@ -1,1 +1,1 @@
-README file in post directory.
+README file in '_posts' directory.
