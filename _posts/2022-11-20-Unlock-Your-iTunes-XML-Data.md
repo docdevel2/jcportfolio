@@ -1,6 +1,6 @@
 ---
 title: “Unlock Your iTunes XML Data”
-date: 2022-11-20
+date: 2022-11-01
 ---
 
 # Abstract
