@@ -1,6 +1,6 @@
 ---
-title: "New Standard for PCB-MCM Data Exchange"
-date: 2022-11-19
+title: "A New Standard for PCB-MCM Data Exchange"
+date: 1996-04-01
 ---
 
 ## Abstract
