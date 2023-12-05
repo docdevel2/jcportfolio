@@ -11,3 +11,5 @@ Keywords: REST API, CRM, HubSpot CRM, Network-base API, Python
 [View or download PDF: TBD](https://docdevel2.github.io/jcportfolio/REST-APIs-Drive-Business-Tools.pdf)  
 
 Published: 2023  
+
+<style> body{ background-color: lavender; } </style>  
