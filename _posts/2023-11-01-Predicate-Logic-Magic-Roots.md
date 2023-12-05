@@ -11,3 +11,5 @@ Keywords: Relational database, RDBMS, SQL, SEQUEL, Edgar F. Codd, Donald D. Cham
 [View or download PDF: TBD](https://docdevel2.github.io/jcportfolio/Predicate-Logic-The-Magic-Roots-of-RDBMS.pdf)  
 
 Published: 2023  
+
+<style> body{ background-color: lavender; } </style>  
