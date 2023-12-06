@@ -8,7 +8,7 @@ In this article, I show you how I used a Python application programming interfac
 
 Keywords: MySQL, X DevAPI, Python, SQL, NoSQL, database  
 
-[View or download PDF: SQL Database Migration](https://docdevel2.github.io/jcportfolio/Tutorial_SQL_To_Doc_DB.pdf)  
+[View or download PDF](https://docdevel2.github.io/jcportfolio/Tutorial_SQL_To_Doc_DB.pdf)  
 
 Published: 2023  
 
