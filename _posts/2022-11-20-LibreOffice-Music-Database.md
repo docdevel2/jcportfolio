@@ -10,5 +10,6 @@ Keywords: LibreOffice, database, SQL, MySQL
 
 [Linux Magazine, Issue 258, May 2022](https://www.linux-magazine.com/Issues/2022/258/LibreOffice-Music-Database/(language)/eng-US)
 
-[View or download PDF](https://docdevel2.github.io/jcportfolio/Creating-a-Music-Database-in-LibreOffice.pdf)
+[View or download PDF](https://docdevel2.github.io/jcportfolio/Creating-a-Music-Database-in-LibreOffice.pdf)  
 
+<style> body{ background-color: lavender; } </style>  
