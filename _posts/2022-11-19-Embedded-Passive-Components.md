@@ -10,5 +10,7 @@ Keywords: EDA, Embedded Passives, Integral Passives, PCB, RF Design, Wireless De
 
 [View or download PDF: Embedded Passive Components](https://docdevel2.github.io/jcportfolio/Embedded-Passive-Components.pdf)
 
-Published: 2000
+Published: 2000  
+
+<style> body{ background-color: lavender; } </style>  
 
