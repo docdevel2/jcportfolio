@@ -10,6 +10,8 @@ Keywords: ASEM CAD, CAM, Data Exchange, EDA, EDAC, EDIF
 
 [View or download PDF: New Standard for PCB-MCM Data Exchange](https://docdevel2.github.io/jcportfolio/New-Standard-for-PCB-MCM-Data-Exchange.pdf)
 
-Published: 1996
+Published: 1996  
+
+<style> body{ background-color: lavender; } </style>  
 
 
