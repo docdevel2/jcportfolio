@@ -12,3 +12,5 @@ Keywords: MySQL, X DevAPI, Python, SQL, NoSQL, database
 
 Published: 2023  
 
+<style> body{ background-color: lavender; } </style>  
+
