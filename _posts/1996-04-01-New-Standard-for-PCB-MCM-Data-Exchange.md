@@ -8,7 +8,7 @@ Today’s PCB and MCM designers often work in a heterogeneous environment in whi
 
 Keywords: ASEM CAD, CAM, Data Exchange, EDA, EDAC, EDIF
 
-[View or download PDF: New Standard for PCB-MCM Data Exchange](https://docdevel2.github.io/jcportfolio/New-Standard-for-PCB-MCM-Data-Exchange.pdf)
+[View or download PDF](https://docdevel2.github.io/jcportfolio/New-Standard-for-PCB-MCM-Data-Exchange.pdf)
 
 Published: 1996  
 
