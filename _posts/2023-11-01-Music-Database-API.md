@@ -1,5 +1,5 @@
 ---
-title: "Accessing a Music Database API"  
+title: "Using a RESTful API to get data from a music database"  
 date: 2023-11-01  
 ---
 
@@ -8,7 +8,7 @@ If you are a developer who wants to integrate network-based services into your a
 
 Keywords: REST API, Music API, Music database, Network-base API, Python  
 
-[View or download PDF](https://docdevel2.github.io/jcportfolio/Music_Database_API.pdf)  
+[View or download PDF](https://docdevel2.github.io/jcportfolio/Accessing-a-Music-Database-API.pdf)  
 
 Published: 2023  
 
