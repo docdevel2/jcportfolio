@@ -1,3 +1,4 @@
 theme: minima
 title: John Cofield's Portfolio
-rss: false
+#rss: false
+feed: false
