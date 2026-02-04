@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.0795847"
-     inkscape:cx="111.28584"
-     inkscape:cy="252.47668"
+     inkscape:zoom="0.75627627"
+     inkscape:cx="527.58498"
+     inkscape:cy="378.16868"
      inkscape:window-width="1366"
      inkscape:window-height="736"
      inkscape:window-x="0"
@@ -350,7 +350,7 @@
        y="0"><tspan
          x="216.58589"
          y="458.05966"
-         id="tspan317338">LLM
+         id="tspan320402">LLM
 </tspan></text><g
        id="g9884"
        transform="translate(0.3297864,-26.469868)"><rect
@@ -368,7 +368,7 @@
          y="0"><tspan
            x="189.33392"
            y="458.05966"
-           id="tspan317340">AI Agent
+           id="tspan320404">AI Agent
 </tspan></text></g><g
        id="g9892"
        transform="translate(0.3297864,-26.469868)"><rect
@@ -391,7 +391,7 @@
            y="0"><tspan
              x="173.57792"
              y="458.05966"
-             id="tspan317342">MCP Client 
+             id="tspan320406">MCP Client 
 </tspan></text></g></g><g
        id="g278448"><rect
          style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.248254;stroke-opacity:1"
@@ -410,7 +410,7 @@
            y="0"><tspan
              x="170.20589"
              y="458.05966"
-             id="tspan317344">MCP Server 
+             id="tspan320408">MCP Server 
 </tspan></text></g></g><g
        id="g9734"
        transform="translate(-31.385568,-0.07123575)"><rect
@@ -434,7 +434,7 @@
          y="0"><tspan
            x="194.30196"
            y="458.05966"
-           id="tspan317346">Context
+           id="tspan320410">Context
 </tspan></text></g><use
        xlink:href="#emoji-1f916"
        width="64"
@@ -474,7 +474,7 @@
          y="0"><tspan
            x="213.88591"
            y="458.05966"
-           id="tspan317348">User
+           id="tspan320412">User
 </tspan></text></g><rect
        style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
        id="rect263777"
@@ -500,7 +500,7 @@
        y="0"><tspan
          x="205.40192"
          y="458.05966"
-         id="tspan317350">Agent
+         id="tspan320414">Agent
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-199.42622,18.102618)"
@@ -508,7 +508,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect266238);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
          x="845.43214"
          y="571.10654"
-         id="tspan317352">Text</tspan></text><rect
+         id="tspan320416">Text</tspan></text><rect
        style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
        id="rect271279"
        width="26.158182"
@@ -530,15 +530,8 @@
        y="0"><tspan
          x="205.40192"
          y="458.05966"
-         id="tspan317354">Agent
-</tspan></text><rect
-       style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.328826;stroke-dasharray:none;stroke-opacity:1"
-       id="rect271295"
-       width="31.421173"
-       height="34.304073"
-       x="13.764121"
-       y="49.65958"
-       inkscape:label="rect9557" /><g
+         id="tspan320418">Agent
+</tspan></text><g
        id="g265936"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0.913725;filter:url(#filter265950)"
        transform="matrix(1.5,0,0,1.5,-208.77979,-15.151587)"><use
@@ -548,16 +541,6 @@
          id="use264345"
          transform="matrix(0.26458333,0,0,0.26458333,230.76436,112.97532)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0.913725" /></g><text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-34.608453,-40.784692)"
-       id="text271297"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect271299);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
-       x="80.490593"
-       y="0"><tspan
-         x="186.08192"
-         y="458.05966"
-         id="tspan317356">Assistant
-</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264999;stroke-opacity:0.913725"
        x="188.53876"
@@ -653,7 +636,7 @@ YII=
          y="0"><tspan
            x="173.57792"
            y="458.05966"
-           id="tspan317358">MCP Client 
+           id="tspan320420">MCP Client 
 </tspan></text></g><g
        id="g278436"><rect
          style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.3658;stroke-opacity:1"
@@ -742,7 +725,7 @@ YII=
            y="0"><tspan
              x="170.20589"
              y="458.05966"
-             id="tspan317360">MCP Server 
+             id="tspan320422">MCP Server 
 </tspan></text></g></g><g
        id="g281698"
        transform="translate(-1.4591293,15.582618)"><use
@@ -793,10 +776,28 @@ YII=
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect281704);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
          x="840.86014"
          y="571.10654"
-         id="tspan317362">Orig.</tspan></text><use
-       xlink:href="#icon-move"
-       width="1024"
-       height="1024"
-       style="fill:#000000;stroke:none"
-       id="use316936"
-       transform="matrix(0.02325439,0,0,0.02325439,17.505189,50.513478)" /></g></svg>
+         id="tspan320424">Orig.</tspan></text><g
+       id="g320229"><rect
+         style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.328826;stroke-dasharray:none;stroke-opacity:1"
+         id="rect271295"
+         width="31.421173"
+         height="34.304073"
+         x="13.764121"
+         y="49.65958"
+         inkscape:label="rect9557" /><text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-34.608453,-40.784692)"
+         id="text271297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect271299);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
+         x="80.490593"
+         y="0"><tspan
+           x="186.08192"
+           y="458.05966"
+           id="tspan320426">Assistant
+</tspan></text><use
+         xlink:href="#icon-move"
+         width="1024"
+         height="1024"
+         style="fill:#000000;stroke:none"
+         id="use316936"
+         transform="matrix(0.02325439,0,0,0.02325439,17.505189,50.513478)" /></g></g></svg>
