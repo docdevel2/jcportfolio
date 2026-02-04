@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="agent-flow-test.svg"
-   inkscape:export-filename="agent-color.svg"
+   inkscape:export-filename="agent-flow-test.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xml:space="preserve"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.75386144"
-     inkscape:cx="531.92799"
-     inkscape:cy="360.80901"
+     inkscape:zoom="4.0795847"
+     inkscape:cx="111.28584"
+     inkscape:cy="252.47668"
      inkscape:window-width="1366"
      inkscape:window-height="736"
      inkscape:window-x="0"
@@ -307,7 +307,17 @@
        y="436.22186"
        width="166.68176"
        height="93.231827"
-       id="rect278429" /></defs><g
+       id="rect278429" /><rect
+       x="832.33688"
+       y="549.2693"
+       width="76.399146"
+       height="47.606336"
+       id="rect281704" /><symbol
+       id="icon-move"
+       viewBox="0 0 1024 1024"><title
+         id="title314739">move</title><path
+         d="M 576,640 V 832 H 704 L 512,1024 320,832 H 448 V 640 Z M 448,384 V 192 H 320 L 512,0 704,192 H 576 V 384 Z M 384,576 H 192 V 704 L 0,512 192,320 V 448 H 384 Z M 640,448 H 832 V 320 L 1024,512 832,704 V 576 H 640 Z"
+         id="path314741" /></symbol></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -340,7 +350,7 @@
        y="0"><tspan
          x="216.58589"
          y="458.05966"
-         id="tspan280742">LLM
+         id="tspan317338">LLM
 </tspan></text><g
        id="g9884"
        transform="translate(0.3297864,-26.469868)"><rect
@@ -358,7 +368,7 @@
          y="0"><tspan
            x="189.33392"
            y="458.05966"
-           id="tspan280744">AI Agent
+           id="tspan317340">AI Agent
 </tspan></text></g><g
        id="g9892"
        transform="translate(0.3297864,-26.469868)"><rect
@@ -381,7 +391,7 @@
            y="0"><tspan
              x="173.57792"
              y="458.05966"
-             id="tspan280746">MCP Client 
+             id="tspan317342">MCP Client 
 </tspan></text></g></g><g
        id="g278448"><rect
          style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.248254;stroke-opacity:1"
@@ -400,7 +410,7 @@
            y="0"><tspan
              x="170.20589"
              y="458.05966"
-             id="tspan280748">MCP Server 
+             id="tspan317344">MCP Server 
 </tspan></text></g></g><g
        id="g9734"
        transform="translate(-31.385568,-0.07123575)"><rect
@@ -424,7 +434,7 @@
          y="0"><tspan
            x="194.30196"
            y="458.05966"
-           id="tspan280750">Context
+           id="tspan317346">Context
 </tspan></text></g><use
        xlink:href="#emoji-1f916"
        width="64"
@@ -464,7 +474,7 @@
          y="0"><tspan
            x="213.88591"
            y="458.05966"
-           id="tspan280752">User
+           id="tspan317348">User
 </tspan></text></g><rect
        style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
        id="rect263777"
@@ -490,7 +500,7 @@
        y="0"><tspan
          x="205.40192"
          y="458.05966"
-         id="tspan280754">Agent
+         id="tspan317350">Agent
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-199.42622,18.102618)"
@@ -498,7 +508,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect266238);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
          x="845.43214"
          y="571.10654"
-         id="tspan280756">Text</tspan></text><rect
+         id="tspan317352">Text</tspan></text><rect
        style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
        id="rect271279"
        width="26.158182"
@@ -520,37 +530,34 @@
        y="0"><tspan
          x="205.40192"
          y="458.05966"
-         id="tspan280758">Agent
-</tspan></text><g
-       id="g272092"
-       transform="translate(-203.38603,-56.57424)"><g
-         id="g271305"><rect
-           style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
-           id="rect271295"
-           width="26.158182"
-           height="34.332664"
-           x="219.78165"
-           y="106.21953"
-           inkscape:label="rect9557" /><g
-           id="g265936"
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0.913725;filter:url(#filter265950)"
-           transform="matrix(1.5,0,0,1.5,-126.03978,-63.008019)"><use
-             xlink:href="#emoji-1f916"
-             width="64"
-             height="64"
-             id="use264345"
-             transform="matrix(0.26458333,0,0,0.26458333,230.76436,112.97532)"
-             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0.913725" /></g><text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,168.24841,15.789548)"
-           id="text271297"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect271299);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
-           x="80.490593"
-           y="0"><tspan
-             x="205.40192"
-             y="458.05966"
-             id="tspan280760">Agent
-</tspan></text></g></g><text
+         id="tspan317354">Agent
+</tspan></text><rect
+       style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.328826;stroke-dasharray:none;stroke-opacity:1"
+       id="rect271295"
+       width="31.421173"
+       height="34.304073"
+       x="13.764121"
+       y="49.65958"
+       inkscape:label="rect9557" /><g
+       id="g265936"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0.913725;filter:url(#filter265950)"
+       transform="matrix(1.5,0,0,1.5,-208.77979,-15.151587)"><use
+         xlink:href="#emoji-1f916"
+         width="64"
+         height="64"
+         id="use264345"
+         transform="matrix(0.26458333,0,0,0.26458333,230.76436,112.97532)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0.913725" /></g><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-34.608453,-40.784692)"
+       id="text271297"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect271299);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
+       x="80.490593"
+       y="0"><tspan
+         x="186.08192"
+         y="458.05966"
+         id="tspan317356">Assistant
+</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264999;stroke-opacity:0.913725"
        x="188.53876"
@@ -646,7 +653,7 @@ YII=
          y="0"><tspan
            x="173.57792"
            y="458.05966"
-           id="tspan280762">MCP Client 
+           id="tspan317358">MCP Client 
 </tspan></text></g><g
        id="g278436"><rect
          style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.3658;stroke-opacity:1"
@@ -735,17 +742,19 @@ YII=
            y="0"><tspan
              x="170.20589"
              y="458.05966"
-             id="tspan280764">MCP Server 
-</tspan></text></g></g><use
-       xlink:href="#emoji-1f916"
-       width="64"
-       height="64"
-       id="use278669"
-       transform="matrix(1.3229167,0,0,1.3229167,184.93008,42.178697)"
-       inkscape:export-filename="ai-agent-sym-icon.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       style="fill:#ff0066;fill-opacity:1" /><path
+             id="tspan317360">MCP Server 
+</tspan></text></g></g><g
+       id="g281698"
+       transform="translate(-1.4591293,15.582618)"><use
+         xlink:href="#emoji-1f916"
+         width="64"
+         height="64"
+         id="use278669"
+         transform="matrix(1.3229167,0,0,1.3229167,184.93008,42.178697)"
+         inkscape:export-filename="ai-agent-sym-icon.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         style="fill:#ff0066;fill-opacity:1" /></g><path
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.245509;stroke-opacity:0.913725"
        d="m 597.9807,423.45345 c -0.42594,-0.47066 -0.41967,-0.51833 0.18931,-1.43856 0.82681,-1.2494 3.25304,-2.8481 5.26583,-3.46979 0.8854,-0.27347 3.42694,-0.88801 5.64787,-1.36564 8.14872,-1.75246 10.43117,-3.12994 11.33954,-6.84355 0.60398,-2.46919 1.43913,-3.43347 2.92244,-3.37432 1.14431,0.0456 2.19568,0.56829 4.77549,2.37399 1.07496,0.75241 2.13334,1.36801 2.35196,1.36801 0.52229,0 0.94209,-0.51621 2.03059,-2.49695 1.56066,-2.83995 2.84483,-3.70412 4.48561,-3.01856 0.89161,0.37253 1.3977,1.00536 2.84266,3.55453 1.33093,2.34798 1.59928,2.39734 3.90725,0.71867 3.31607,-2.41191 5.06866,-2.99416 6.39553,-2.12476 0.61537,0.4032 1.09405,1.46219 1.65582,3.66321 0.78969,3.094 3.55701,4.58422 11.71121,6.30655 4.49292,0.949 5.61013,1.28761 7.40529,2.24442 1.64524,0.8769 3.42628,2.64887 3.42628,3.40882 0,0.29521 -0.24928,0.61456 -0.60691,0.7775 -0.54507,0.24835 -0.71741,0.17467 -1.69149,-0.72321 -2.03877,-1.87927 -4.02969,-2.58755 -10.81568,-3.84774 -5.83078,-1.08281 -8.42355,-1.8599 -9.57308,-2.86919 -1.03666,-0.9102 -1.4296,-1.61531 -2.42302,-4.34803 -0.41266,-1.13515 -0.87778,-2.10605 -1.0336,-2.15756 -0.15582,-0.0515 -1.25887,0.75744 -2.45123,1.79766 -2.34678,2.04733 -3.93139,2.92185 -4.80964,2.65434 -0.85702,-0.26104 -1.38507,-0.82293 -2.75058,-2.92689 -1.41918,-2.18665 -1.91216,-2.69217 -2.43118,-2.493 -0.1944,0.0746 -1.03144,1.17114 -1.86008,2.43675 -1.79792,2.74603 -2.53366,3.29012 -3.86509,2.8583 -1.15968,-0.37612 -1.97294,-0.94944 -4.05824,-2.86096 -0.92064,-0.84391 -1.77297,-1.53439 -1.89405,-1.53439 -0.35368,0 -0.8719,0.98302 -1.44119,2.73381 -0.73921,2.27338 -1.73228,3.67536 -3.13698,4.42867 -1.57934,0.84696 -3.04228,1.23245 -8.58104,2.26113 -6.88739,1.27916 -9.52724,2.25173 -11.33502,4.17602 -0.69974,0.74483 -1.0154,0.77071 -1.59458,0.13072 z"
        id="path279896"
@@ -777,4 +786,17 @@ YII=
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.245509;stroke-opacity:0.913725"
        d="m 673.21882,437.09692 c -2.49204,-0.96017 -3.78793,-2.77146 -3.78793,-5.29443 0,-5.65795 7.32801,-7.7133 10.17571,-2.85406 1.40582,2.39884 0.99625,4.94345 -1.09886,6.82713 -1.69668,1.52546 -3.55453,1.98962 -5.28892,1.32136 z"
        id="path280575"
-       transform="scale(0.26458333)" /></g></svg>
+       transform="scale(0.26458333)" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.502502,-105.8657)"
+       id="text281702"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect281704);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
+         x="840.86014"
+         y="571.10654"
+         id="tspan317362">Orig.</tspan></text><use
+       xlink:href="#icon-move"
+       width="1024"
+       height="1024"
+       style="fill:#000000;stroke:none"
+       id="use316936"
+       transform="matrix(0.02325439,0,0,0.02325439,17.505189,50.513478)" /></g></svg>
