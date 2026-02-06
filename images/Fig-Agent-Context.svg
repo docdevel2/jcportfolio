@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.0429688"
-     inkscape:cx="416.11983"
-     inkscape:cy="255.99999"
+     inkscape:zoom="1.2223684"
+     inkscape:cx="359.95695"
+     inkscape:cy="250.3337"
      inkscape:window-width="1366"
      inkscape:window-height="736"
      inkscape:window-x="0"
@@ -265,6 +265,18 @@
        width="166.68176"
        height="93.231827"
        id="rect271289" />
+    <rect
+       x="158.12051"
+       y="436.22186"
+       width="166.68176"
+       height="93.231827"
+       id="rect356243" />
+    <rect
+       x="158.12051"
+       y="436.22186"
+       width="166.68176"
+       height="93.231827"
+       id="rect356301" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -292,9 +304,69 @@
        style="font-weight:bold;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;white-space:pre;shape-inside:url(#rect13923);display:inline;fill:#80b3ff;stroke:#000000;stroke-width:1.00157"><tspan
          x="266.41211"
          y="282.7081"
-         id="tspan356221"><tspan
+         id="tspan356845"><tspan
            dx="0 15.072006 10.416 14.855988"
-           id="tspan356219">Prom</tspan></tspan></text>
+           id="tspan356843">Prom</tspan></tspan></text>
+    <g
+       id="g356299"
+       transform="matrix(1.4412017,0,0,1.4412017,16.628426,-121.18652)">
+      <rect
+         style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
+         id="rect356291"
+         width="26.158182"
+         height="34.332664"
+         x="142.12056"
+         y="104.4099"
+         inkscape:label="rect9557" />
+      <use
+         xlink:href="#icon-cog"
+         width="1024"
+         height="1024"
+         style="display:inline;fill:#000000;stroke:#000000;stroke-opacity:1;image-rendering:auto"
+         id="use356293"
+         transform="matrix(0.02323171,0,0,0.02323171,143.14759,105.55889)" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,91.610896,16.190033)"
+         id="text356297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect356301);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
+         x="80.490593"
+         y="0"><tspan
+           x="216.58589"
+           y="458.05966"
+           id="tspan356847">LLM
+</tspan></text>
+    </g>
+    <g
+       id="g356241"
+       transform="matrix(1.4412017,0,0,1.4412017,6.1081732,-131.42326)">
+      <rect
+         style="display:inline;fill:#80b3ff;fill-opacity:1;stroke:#000000;stroke-width:0.30015;stroke-dasharray:none;stroke-opacity:1"
+         id="rect356233"
+         width="26.158182"
+         height="34.332664"
+         x="142.12056"
+         y="104.4099"
+         inkscape:label="rect9557" />
+      <use
+         xlink:href="#icon-cog"
+         width="1024"
+         height="1024"
+         style="display:inline;fill:#000000;stroke:#000000;stroke-opacity:1;image-rendering:auto"
+         id="use356235"
+         transform="matrix(0.02323171,0,0,0.02323171,143.14759,105.55889)" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,91.610896,16.190033)"
+         id="text356239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect356243);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
+         x="80.490593"
+         y="0"><tspan
+           x="216.58589"
+           y="458.05966"
+           id="tspan356849">LLM
+</tspan></text>
+    </g>
     <g
        id="g10404"
        transform="matrix(1.4412017,0,0,1.4412017,-4.5594058,-140.94766)">
@@ -322,7 +394,7 @@
          y="0"><tspan
            x="216.58589"
            y="458.05966"
-           id="tspan356223">LLM
+           id="tspan356851">LLM
 </tspan></text>
     </g>
     <g
@@ -351,7 +423,7 @@
          y="0"><tspan
            x="213.88591"
            y="458.05966"
-           id="tspan356225">User
+           id="tspan356853">User
 </tspan></text>
     </g>
     <text
@@ -403,29 +475,23 @@
          y="0"><tspan
            x="194.30196"
            y="458.05966"
-           id="tspan356227">Context
+           id="tspan356855">Context
 </tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.10108px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.381917"
-       x="165.78914"
-       y="77.608231"
+       x="166.70424"
+       y="98.970222"
        id="text14847"><tspan
          sodipodi:role="line"
-         id="tspan322294">- User’s preferences </tspan><tspan
+         id="tspan356283">- User’s preferences </tspan><tspan
          sodipodi:role="line"
-         id="tspan322296" /><tspan
+         id="tspan356285">- Intent </tspan><tspan
          sodipodi:role="line"
-         id="tspan322298">- Intent </tspan><tspan
+         id="tspan356287">- Previous prompts </tspan><tspan
          sodipodi:role="line"
-         id="tspan322300" /><tspan
-         sodipodi:role="line"
-         id="tspan322302">- Previous prompts </tspan><tspan
-         sodipodi:role="line"
-         id="tspan322304" /><tspan
-         sodipodi:role="line"
-         id="tspan322306">-  Etc.</tspan></text>
+         id="tspan356289">- Etc.</tspan></text>
     <g
        id="g319206"
        transform="matrix(1.4412017,0,0,1.4412017,6.2932653,-20.84777)">
@@ -578,7 +644,7 @@
          y="0"><tspan
            x="205.40192"
            y="458.05966"
-           id="tspan356229">Agent
+           id="tspan356857">Agent
 </tspan></text>
       <path
          fill="#00b9f1"
@@ -708,7 +774,7 @@
          y="0"><tspan
            x="205.40192"
            y="458.05966"
-           id="tspan356231">Agent
+           id="tspan356859">Agent
 </tspan></text>
       <path
          style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0649576;stroke-opacity:0.913725"
