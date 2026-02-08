@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.99179844"
-     inkscape:cx="262.15004"
+     inkscape:cx="348.86121"
      inkscape:cy="302.48082"
      inkscape:window-width="1366"
      inkscape:window-height="736"
@@ -382,9 +382,9 @@
        style="font-weight:bold;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;white-space:pre;shape-inside:url(#rect13923);display:inline;fill:#80b3ff;stroke:#000000;stroke-width:1.00157"><tspan
          x="266.41211"
          y="282.7081"
-         id="tspan3728"><tspan
+         id="tspan4290"><tspan
            dx="0 15.072006 10.416 14.855988"
-           id="tspan3726">Prom</tspan></tspan></text>
+           id="tspan4288">Prom</tspan></tspan></text>
     <g
        id="g358207"
        transform="matrix(1.4412017,0,0,1.4412017,-95.013867,-57.749753)">
@@ -412,7 +412,7 @@
          y="0"><tspan
            x="216.58589"
            y="458.05966"
-           id="tspan3730">LLM
+           id="tspan4292">LLM
 </tspan></text>
     </g>
     <g
@@ -442,7 +442,7 @@
          y="0"><tspan
            x="216.58589"
            y="458.05966"
-           id="tspan3732">LLM
+           id="tspan4294">LLM
 </tspan></text>
     </g>
     <g
@@ -472,7 +472,7 @@
          y="0"><tspan
            x="216.58589"
            y="458.05966"
-           id="tspan3734">LLM
+           id="tspan4296">LLM
 </tspan></text>
     </g>
     <g
@@ -627,7 +627,7 @@
          y="0"><tspan
            x="205.40192"
            y="458.05966"
-           id="tspan3736">Agent
+           id="tspan4298">Agent
 </tspan></text>
       <path
          fill="#00b9f1"
@@ -757,7 +757,7 @@
          y="0"><tspan
            x="205.40192"
            y="458.05966"
-           id="tspan3738">Agent
+           id="tspan4300">Agent
 </tspan></text>
       <path
          style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.0649576;stroke-opacity:0.913725"
@@ -828,7 +828,7 @@
            y="0"><tspan
              x="170.20589"
              y="458.05966"
-             id="tspan3740">MCP Server 
+             id="tspan4302">MCP Server 
 </tspan></text>
       </g>
     </g>
@@ -877,9 +877,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect356946);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
          x="832.33594"
          y="618.712"
-         id="tspan3744"><tspan
+         id="tspan4306"><tspan
            dx="0 15.839996 14.18399 11.927994 14.855988 15.76799 10.416 12.335999 14.18399"
-           id="tspan3742">Resources</tspan></tspan></text>
+           id="tspan4304">Resources</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.35754,0,0,0.35754,-114.94932,-81.160144)"
@@ -887,9 +887,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect357127);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
          x="832.33594"
          y="618.712"
-         id="tspan3748"><tspan
+         id="tspan4310"><tspan
            dx="0 15.839996 14.18399 11.927994 14.855988 15.76799 10.416 12.335999 14.18399"
-           id="tspan3746">Resources</tspan></tspan></text>
+           id="tspan4308">Resources</tspan></tspan></text>
     <g
        id="g358097"
        transform="translate(20.056404,23.026488)">
@@ -911,7 +911,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect358099);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
            x="839.94814"
            y="571.10654"
-           id="tspan3750">Tools</tspan></text>
+           id="tspan4312">Tools</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.35754,0,0,0.35754,-111.24513,-88.568482)"
@@ -919,7 +919,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect358101);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
            x="861.53613"
            y="571.10654"
-           id="tspan3752">&amp;</tspan></text>
+           id="tspan4314">&amp;</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.58097px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-dasharray:1.14395, 1.14395;stroke-dashoffset:0;stroke-opacity:1"
@@ -953,7 +953,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect358037);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
            x="839.94814"
            y="571.10654"
-           id="tspan3754">Tools</tspan></text>
+           id="tspan4316">Tools</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.35754,0,0,0.35754,-111.24513,-88.568482)"
@@ -961,7 +961,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect358039);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
            x="861.53613"
            y="571.10654"
-           id="tspan3756">&amp;</tspan></text>
+           id="tspan4318">&amp;</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.58097px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-dasharray:1.14395, 1.14395;stroke-dashoffset:0;stroke-opacity:1"
@@ -994,7 +994,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect349628);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
            x="839.94814"
            y="571.10654"
-           id="tspan3758">Tools</tspan></text>
+           id="tspan4320">Tools</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.35754,0,0,0.35754,-111.24513,-88.568482)"
@@ -1002,7 +1002,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect357079);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00157"><tspan
            x="861.53613"
            y="571.10654"
-           id="tspan3760">&amp;</tspan></text>
+           id="tspan4322">&amp;</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.58097px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-dasharray:1.14395, 1.14395;stroke-dashoffset:0;stroke-opacity:1"
@@ -1042,7 +1042,7 @@
          y="0"><tspan
            x="194.30196"
            y="458.05966"
-           id="tspan3762">Context
+           id="tspan4324">Context
 </tspan></text>
     </g>
     <path
@@ -1053,8 +1053,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.381317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart)"
-       d="M 54.616842,29.175507 92.044967,29.039955"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.381317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart);marker-end:url(#marker318980)"
+       d="M 54.616842,29.175507 90.457467,29.039955"
        id="path2976"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
